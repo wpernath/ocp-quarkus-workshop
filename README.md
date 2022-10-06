@@ -58,6 +58,7 @@ Start | End | Topics
 The slides and presentations can be found in this repository.
 
 - [Intro](material/1_Introduction%20to%20Kubernetes%20Native%20Development.pdf)
+- [Working with Quarkus](material/2_Working%20with%20Quarkus.pdf)
 
 ## Demo Repositories & Requirements
 All sources and demos are publicly available on GitHub. 
