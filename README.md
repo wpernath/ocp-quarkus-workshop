@@ -36,9 +36,9 @@ Start | End | Topics
 9:00 | 9:30| Intro & Welcome
 9:30 | 10:30| Quarkus Introduction
 **10:30**|**10:45**| **break**
-10:45|12:15|Quarkus Concepts & 
+10:45|12:15|Working with Quarkus
 **12:15**|**13:15**|**Lunch Break**
-13:15|15:30|Application Packaging - Templates - Kustomize - DIY - Helm Charts - Kubernetes Operators
+13:15|15:30|Application Packaging - Templates - Kustomize - DIY - Helm Charts
 15:30|16:00|Open Questions / Answers
 
 
@@ -46,7 +46,7 @@ Start | End | Topics
 Start | End | Topics
 ------|-----|------
 9:00 | 9:15| Welcome
-9:15 | 10:45| Advanced Topics - Serverless - ServiceMesh
+9:15 | 10:45| Quarkus in a Serverless world
 **10:45**|**11:00**| **break**
 11:00|12:30|CI/CD - OpenShift Pipelines - Tekton - Tekton Security - Working with the examples
 **12:30**|**13:30**|**Lunch Break**
