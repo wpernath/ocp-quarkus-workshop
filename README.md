@@ -1,6 +1,6 @@
 # Architecture Workshop - Kubernetes Native
 ## What is it
-The Architecture Workshop - Kubernetes Native is a two-days learning experience for developers who want to understand and make use of the benefits of Quarkus in an OpenShift environment in their daily work. They learn everything they need to understand the concepts, the architectural principles and components of Quarkus and OpenShift and related products for successfully discussing and developing Kubernetes Native Applications at a customer site from a developer’s perspective.
+The *Architecture Workshop - Kubernetes Native* is a two-days learning experience for developers who want to understand and make use of the benefits of Quarkus in an OpenShift environment in their daily work. They learn everything they need to understand the concepts, the architectural principles and components of Quarkus and OpenShift and related products for successfully discussing and developing Cloud Native Applications at a customer site from a developer’s perspective.
 
 ## Key takeaways
 - Benefits of using Quarkus
@@ -16,6 +16,13 @@ The Architecture Workshop - Kubernetes Native is a two-days learning experience 
 - Use OpenShift Pipelines (Tekton Pipelines) to do CI/CD
 - Use of ArgoCD and OpenShift GitOps
 
+## Format
+The workshop is designed as a two-days experience with a mix of presentations and quite a lot of demos.
+
+To make it more enjoyable for everyone, we are going to implement a multiplayer game (Pac-Man / FatCat inspired) with an already existing JavaScript client and a server part, written with Quarkus. 
+
+Have a look at [GitHub](https://github.com/wpernath/quarkus-grumpycat) to see a demo of the game.
+
 ## Target Audience
 - Sales Engineers
 - Delivery
@@ -29,6 +36,7 @@ The Architecture Workshop - Kubernetes Native is a two-days learning experience 
 - Java programming language
 
 ## Agenda
+The two days are full of technical demos and presentations. 
 
 ### Day #1
 Start | End | Topics
@@ -59,6 +67,9 @@ The slides and presentations can be found in this repository.
 
 - [Intro](material/1_Introduction%20to%20Kubernetes%20Native%20Development.pdf)
 - [Working with Quarkus](material/2_Working%20with%20Quarkus.pdf)
+- [Application Packaging](material/3_Application%20Packaging.pdf)
+- [Quarkus Serverless](material/5_GitOps.pdf)
+- [GitOps](material/5_GitOps.pdf)
 
 ## Demo Repositories & Requirements
 All sources and demos are publicly available on GitHub. 
