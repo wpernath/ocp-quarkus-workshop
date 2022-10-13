@@ -68,7 +68,7 @@ The slides and presentations can be found in this repository.
 - [Intro](material/1_Introduction%20to%20Kubernetes%20Native%20Development.pdf)
 - [Working with Quarkus](material/2_Working%20with%20Quarkus.pdf)
 - [Application Packaging](material/3_Application%20Packaging.pdf)
-- [Quarkus Serverless](material/5_GitOps.pdf)
+- [Quarkus Serverless](material/4_Server%20Quickstarts.pdf)
 - [GitOps](material/5_GitOps.pdf)
 
 ## Demo Repositories & Requirements
