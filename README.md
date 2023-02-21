@@ -36,7 +36,7 @@ Have a look at [GitHub](https://github.com/wpernath/quarkus-grumpycat) to see a 
 - Java programming language
 
 ## Agenda
-The two days are full of technical demos and presentations. 
+The two days are full of technical demos and presentations. The next iteration of this workshop is going to take place on Feb 28th 2023 to Mar 1st 2023. If you want to participate, please [go here](https://www.redhat-partner.com/enablement/trainings/register/402/) and register for free. 
 
 ### Day #1
 Start | End | Topics
