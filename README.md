@@ -36,7 +36,7 @@ Have a look at [GitHub](https://github.com/wpernath/quarkus-grumpycat) to see a 
 - Java programming language
 
 ## Agenda
-The two days are full of technical demos and presentations. The next iteration of this workshop is going to take place on Feb 28th 2023 to Mar 1st 2023. If you want to participate, please [go here](https://www.redhat-partner.com/enablement/trainings/register/402/) and register for free. 
+The two days are full of technical demos and presentations. The next iteration of this workshop is going to take place on April 4th 2023 to April 5th 2023. If you want to participate, please [go here](https://www.redhat-partner.com/enablement/trainings/register/402/) and register for free. 
 
 ### Day #1
 Start | End | Topics
@@ -44,9 +44,10 @@ Start | End | Topics
 9:00 | 9:30| Intro & Welcome
 9:30 | 10:30| Quarkus Introduction
 **10:30**|**10:45**| **break**
-10:45|12:15|Working with Quarkus
+10:45|12:15|Working with Quarkus I
 **12:15**|**13:15**|**Lunch Break**
-13:15|15:30|Application Packaging - Templates - Kustomize - DIY - Helm Charts
+13:15|14:15|Working with Quarkus II
+14:15|15:30|Application Packaging - Kustomize - Helm Charts
 15:30|16:00|Open Questions / Answers
 
 
