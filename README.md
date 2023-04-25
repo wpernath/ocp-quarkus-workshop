@@ -73,7 +73,8 @@ The slides and presentations can be found in this repository.
 - [GitOps](material/5_GitOps.pdf)
 
 ## Demo Repositories & Requirements
-All sources and demos are publicly available on GitHub. 
+All sources and demos are publicly available here on GitHub. 
+- [Quarkus Demo Service](https://github.com/wpernath/quarkus-demo-service.git) -> The Service code I am building together with you
 - [Quarkus GrumpyCat](https://github.com/wpernath/quarkus-grumpycat.git)
 - [Quarkus GrumpyCat Config](https://github.com/wpernath/grumpycat-config.git)
 - [Quarkus Super Heroes Example](https://github.com/quarkusio/quarkus-super-heroes)
