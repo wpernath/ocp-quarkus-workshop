@@ -75,8 +75,8 @@ The slides and presentations can be found in this repository.
 ## Demo Repositories & Requirements
 All sources and demos are publicly available here on GitHub. 
 - [Quarkus Demo Service](https://github.com/wpernath/quarkus-demo-service.git) -> The Service code I am building together with you
-- [Quarkus GrumpyCat](https://github.com/wpernath/quarkus-grumpycat.git)
-- [Quarkus GrumpyCat Config](https://github.com/wpernath/grumpycat-config.git)
-- [Quarkus Super Heroes Example](https://github.com/quarkusio/quarkus-super-heroes)
+- [Quarkus GrumpyCat](https://github.com/wpernath/quarkus-grumpycat.git) -> The source for the game Quarkus GrumpyCat
+- [Quarkus GrumpyCat Config](https://github.com/wpernath/grumpycat-config.git) -> The config for the game GrumpyCat to deploy it on Kubernetes
+- [Quarkus Super Heroes Example](https://github.com/quarkusio/quarkus-super-heroes) 
   
 
